@@ -11,25 +11,25 @@ class Config(object):
     LOGGER = True
   
     TEMP_DOWNLOAD_DIRECTORY = 'None'
-    API_ID = "FILL API ID "  # integer value, dont use ""
-    API_HASH = "FIL API HASH"
-    TOKEN = "BOT_TOKEN"
-    OWNER_ID = 1732814103  
-    OWNER_USERNAME = "theTelegrampro"
-    SUPPORT_CHAT = 'Thanimaisupport'
-    JOIN_LOGGER = -1001739802989
-    EVENT_LOGS = -1001739802989
+    API_ID = "8577898 "  # integer value, dont use ""
+    API_HASH = "8663682496c76b1240e4b7e527577dad"
+    TOKEN = "5009926984:AAH6fGW5mTa008lr8aRekqJiuMgrz_0IMjw"
+    OWNER_ID = 1379645201  
+    OWNER_USERNAME = "HEMANTHGAMING1K"
+    SUPPORT_CHAT = 'MOVIES_MOD'
+    JOIN_LOGGER = -1001721546513
+    EVENT_LOGS = -1001721546513
 
     ALLOW_CHATS = "True"
-    SQLALCHEMY_DATABASE_URI = 'ELEPHAT OR HEROKU DB URL'  
+    SQLALCHEMY_DATABASE_URI = 'postgres://gxbyfqtg:PRT4Wkhev6nJc6uTydk5AB8gyLSMoKwJ@batyr.db.elephantsql.com/gxbyfqtg'  
     LOAD = []
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
     WEBHOOK = None
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  
+    SPAMWATCH_API = "BfPIa_u9S0RVHmmaKLJM_JKHNoxoYySPzHSK7YfL9yaba216rkwiAOVC5kcYv1Z1"  
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
-    BOT_ID = "2052309535"
+    BOT_ID = "5009926984"
     
     DRAGONS = get_user_list('elevated_users.json', 'sudos')
 
