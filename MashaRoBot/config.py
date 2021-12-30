@@ -21,7 +21,7 @@ class Config(object):
     EVENT_LOGS =  -1001721546513
 
     ALLOW_CHATS = "True"
-    SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:4XphMda8EJenD5EcW7cx@containers-us-west-21.railway.app:7396/railway'  
+    SQLALCHEMY_DATABASE_URI = 'postgres://yngnattyfkenzt:f331efbc29e95868c445f7e2b9759809ba0c58b85c9c8ed5e08b4923cb7c277f@ec2-174-129-16-183.compute-1.amazonaws.com:5432/d7db1glnrmilkg'  
     LOAD = []
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
     WEBHOOK = None
