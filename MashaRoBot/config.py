@@ -11,11 +11,11 @@ class Config(object):
     LOGGER = True
   
     TEMP_DOWNLOAD_DIRECTORY = 'None'
-    API_ID = "8577898"  # integer value, dont use ""
-    API_HASH = "8663682496c76b1240e4b7e527577dad"
+    API_ID = "11838200"  # integer value, dont use ""
+    API_HASH = "bdefefb3d8646f7443938fef4f291410"
     TOKEN = "5009926984:AAH6fGW5mTa008lr8aRekqJiuMgrz_0IMjw"
-    OWNER_ID = 1379645201  
-    OWNER_USERNAME = "HEMANTHGAMING1K"
+    OWNER_ID = 1965594234  
+    OWNER_USERNAME = "VC_Helper"
     SUPPORT_CHAT = 'MOVIES_MOD'
     JOIN_LOGGER = -1001721546513
     EVENT_LOGS = -1001721546513
