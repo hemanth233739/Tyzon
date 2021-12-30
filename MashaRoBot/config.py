@@ -11,14 +11,14 @@ class Config(object):
     LOGGER = True
   
     TEMP_DOWNLOAD_DIRECTORY = 'None'
-    API_ID = "11838200"  # integer value, dont use ""
-    API_HASH = "bdefefb3d8646f7443938fef4f291410"
+    API_ID = "8785365"  # integer value, dont use ""
+    API_HASH = "48c1934c1df9da5b218cfc1382be1bdf"
     TOKEN = "5009926984:AAH6fGW5mTa008lr8aRekqJiuMgrz_0IMjw"
-    OWNER_ID = 1965594234  
-    OWNER_USERNAME = "VC_Helper"
+    OWNER_ID = 2015913098  
+    OWNER_USERNAME = "RISE2BOSSYT"
     SUPPORT_CHAT = 'MOVIES_MOD'
     JOIN_LOGGER = -1001721546513
-    EVENT_LOGS = -1001721546513
+    EVENT_LOGS =  -1001721546513
 
     ALLOW_CHATS = "True"
     SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:4XphMda8EJenD5EcW7cx@containers-us-west-21.railway.app:7396/railway'  
