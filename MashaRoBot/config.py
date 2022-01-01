@@ -21,7 +21,7 @@ class Config(object):
     EVENT_LOGS =  -1001721546513
 
     ALLOW_CHATS = "True"
-    SQLALCHEMY_DATABASE_URI = 'postgres://yngnattyfkenzt:f331efbc29e95868c445f7e2b9759809ba0c58b85c9c8ed5e08b4923cb7c277f@ec2-174-129-16-183.compute-1.amazonaws.com:5432/d7db1glnrmilkg'  
+    SQLALCHEMY_DATABASE_URI = 'postgres://nnelyxkt:4Qzn7vT8EZogWPGe47c9I7_GHDf4lk-W@castor.db.elephantsql.com/nnelyxkt'  
     LOAD = []
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
     WEBHOOK = None
